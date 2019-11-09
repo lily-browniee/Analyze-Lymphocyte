@@ -27,7 +27,7 @@ write.csv(IBS, "data_output/Lymphocytes_PCT.csv")
 ##  http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/
 ##  http://r-statistics.co/Linear-Regression.html
 
-## Single Regression Test, BMI vs. Bloodwork parameter
+## Single Regression Test, BMI vs. Lymphocytes_PCT parameter
 Lymphocytes_PCT.regression <- lm(BMI ~ Lymphocytes_PCT, data = IBS)
 summary(Lymphocytes_PCT.regression)
 
@@ -37,7 +37,7 @@ sink('data_output/Lymphocytes_PCT_regression.txt', append = TRUE)
 print(Lymphocytes_PCT.regression)
 sink()
 
-## ANOVA: IBS-subtype vs. Bloodwork parameter
+## ANOVA: IBS-subtype vs. Lymphocytes_PCT parameter
 ## http://www.sthda.com/english/wiki/one-way-anova-test-in-r
 Lymphocytes_PCT.aov <- aov(Lymphocytes_PCT ~ IBS.subtype, data = IBS)
 summary(Lymphocytes_PCT.aov)
