@@ -1,39 +1,41 @@
-## Analyze-lymphocyte
+## AnalyzeLymphocytes
 ![doi](../master/Images/zenodo.3373938.svg?sanitize=true)
-### Single and multiple regressions, and scatterplots for clinical bloodwork and gene expression data.
-([AnalyzeBloodwork.R](../master/AnalyzeBloodwork.R)) will allow you to load a comma-delimited .csv with various datapoints, perform single and multiple regressions of Body Mass Index (BMI) vs. variables from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D and 3-D scatterplots for the results. 
+### Single regressions scatterplots and boxplots for Lymphocytes and Lymphocytes_PCT.
+([AnalyzeLymphocytes.R](../master/AnalyzeLymphocytes.R)) Lymphocytes are one of the body's main types of immune cells. They are made in the bone marrow and found in the blood and lymph tissue. Lymphocytes work together to defend the body against foreign substances, such as bacteria, viruses, and cancer cells that can threaten its functioning. There are two categories of lymphocytes known as B cells and T cells both are originated from stem cells in the bone marrow.
+ 
 
-Data (RobinsonEtAl_Sup1.csv) was downloaded from: 
+Silva, J. C. (2018, February 21). Lymphocytes: Levels, ranges, and functions. Retrieved from https://www.medicalnewstoday.com/articles/320987.php#-what-does-it-mean-if-levels-are-high.
 
-Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208.
 
 ##
-### Results of single regression, BMI x Serum Cortisol
+### Results of single regression, BMI x Lymphocytes scatterplot
 ```
-> single.regression <- lm(BMI ~ SerumCortisol, data=IBS1)
-> print(single.regression)
+> ggplot(IBS, aes(x = BMI, y = Lymphocytes)) + geom_point() + geom_smooth(method = lm) 
+> png("fig_output/Lymphocytes_scatterplot.png")
+> Lymphocytes_scatterplot <- ggplot(IBS, aes(x = BMI, y = Lymphocytes)) + geom_point() + geom_smooth(method = lm) 
+> print(Lymphocytes_scatterplot)
 
 Call:
-lm(formula = BMI ~ SerumCortisol, data = IBS1)
+lm(formula = BMI ~ Lymphocytes, data = IBS1)
 
 Coefficients:
-  (Intercept)  SerumCortisol  
-      31.9454        -0.5004  
+  (Intercept)          BMI          Lymphocytes 
+      30.7936        -0.5231         0.6042  
+
 ```
-```
-ggplot(IBS1, aes(x=BMI, y=SerumCortisol)) +
-  geom_point() +    
-  geom_smooth(method=lm) 
-```
-![BMI_Cortisol](../master/Images/CORTxBMI.png?sanitize=true)
+
+![](fig_output/Lymphocytes_scatterplot.png)
+
 ##
-### Results of single regression, BMI x C-Reactive Protein (CRP)
+### Results of single regression, BMI x Lymphocytes boxplot
 ```
-> single.regression <- lm(BMI ~ CRP, data=IBS1)
-> print(single.regression)
+> ggplot(IBS, aes(x = BMI, y = Lymphocytes)) + geom_point() + geom_smooth(method = lm) 
+> png("fig_output/Lymphocytes_boxplot.png")
+> Lymphocytes_boxplot <- ggplot(IBS, aes(x = BMI, y = Lymphocytes)) + geom_point() + geom_smooth(method = lm) 
+> print(Lymphocytes_boxplot)
 
 Call:
-lm(formula = BMI ~ SerumCortisol + CRP, data = IBS1)
+lm(formula = BMI ~ Lymphocytes, data = IBS1)
 
 Coefficients:
   (Intercept)  SerumCortisol            CRP  
@@ -41,38 +43,45 @@ Coefficients:
 
 ```
 
-![BMI_CRP](../master/Images/BMIxCRP.png?sanitize=true)
+![](fig_output/Lymphocytes_boxplot.png)
+
+
 ##
-##
-### Results of multiple regression, BMI x Serum Cortisol + C-Reactive Protein (CRP)
+### Results of single regression, BMI x Lymphocytes_PCT scatterplot
 ```
-> fit1 <- lm(BMI ~ SerumCortisol + CRP, data=IBS1)
-> summary(fit1)
+> scatterplot(Lymphocytes_PCT ~ IBS.subtype, data = IBS, main="Lymphocytes_PCT by IBS subtype", xlab = "IBS.subtype", ylab = "Lymphocytes_PCT")
+> png("fig_output/Lymphocytes_PCT_scatterplot.png")
+> Lymphocytes_PCT_scatterplot <- scatterplot(Lymphocytes_PCT ~ IBS.subtype, data = IBS, main="Lymphocytes_PCT by IBS subtype", xlab = "IBS.subtype", ylab = "Lymphocytes_PCT")
+> print(Lymphocytes_PCT_scatterplot)
 
 Call:
 lm(formula = BMI ~ SerumCortisol + CRP, data = IBS1)
 
-Residuals:
-    Min      1Q  Median      3Q     Max 
--9.1378 -3.4448 -0.9904  2.3330 20.6056 
+Coefficients:
+  (Intercept)  SerumCortisol            CRP  
+   1.804763       1.831195              1.72733
+
+```
+
+![](fig_output/Lymphocytes_PCT_scatterplot.png)
+
+
+##
+### Results of single regression, BMI x Lymphocytes_PCT boxplot
+```
+> boxplot(Lymphocytes_PCT ~ IBS.subtype, data = IBS, main="Lymphocytes_PCT by IBS subtype", xlab = "IBS.subtype", ylab = "Lymphocytes_PCT")
+> png("fig_output/Lymphocytes_PCT_boxplot.png")
+> Lymphocytes_PCT_boxplot <- boxplot(Lymphocytes_PCT ~ IBS.subtype, data = IBS, main="Lymphocytes_PCT by IBS subtype", xlab = "IBS.subtype", ylab = "Lymphocytes_PCT")
+> print(Lymphocytes_PCT_boxplot)
+
+Call:
+lm(formula = BMI ~ Lymphocytes_PCT, data = IBS1)
 
 Coefficients:
-              Estimate Std. Error t value Pr(>|t|)    
-(Intercept)    30.7936     1.4134  21.787  < 2e-16 ***
-SerumCortisol  -0.5231     0.1233  -4.244 4.72e-05 ***
-CRP             0.6042     0.1534   3.938 0.000147 ***
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+  (Intercept)        BMI            Lymphocytes_PCT  
+   1.804763       1.831195              1.72733
 
-Residual standard error: 5.354 on 106 degrees of freedom
-  (2 observations deleted due to missingness)
-Multiple R-squared:  0.232,	Adjusted R-squared:  0.2175 
-F-statistic: 16.01 on 2 and 106 DF,  p-value: 8.388e-07
 ```
-```
-s3d <- scatterplot3d(IBS$BMI, IBS$SerumCortisol, IBS$CRP,  pch=16, color="steelblue", box="TRUE", highlight.3d=FALSE, type="h", main="BMI x Cortisol x CRP")
-fit <- lm(SerumCortisol ~ BMI + CRP, data=IBS)
-s3d$plane3d(fit)
-```
-![BMI_Cortisol_CRP_3d-scatterplot](../master/Images/MultipleRegression_3way.png?sanitize=true)
-##
+
+![](fig_output/Lymphocytes_PCT_boxplot.png)
+
