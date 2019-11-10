@@ -19,8 +19,8 @@ Call:
 lm(formula = BMI ~ Lymphocytes, data = IBS1)
 
 Coefficients:
-  (Intercept)      Lymphocytes 
-     25.57843          2.33647       10.947
+(Intercept)    Lymphocytes  
+     21.869        2.458
 ```
 
 ![](fig_output/Lymphocytes_scatterplot.png)
@@ -37,8 +37,8 @@ Call:
 lm(formula = BMI ~ Lymphocytes, data = IBS1)
 
 Coefficients:
-  (Intercept)  SerumCortisol            CRP  
-      30.7936        -0.5231         0.6042  
+(Intercept)     Lymphocytes  
+     21.869        2.458 
 
 ```
 
