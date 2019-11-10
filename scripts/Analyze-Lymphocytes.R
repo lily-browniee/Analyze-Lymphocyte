@@ -1,5 +1,5 @@
 
-## BTEC330 F2019 Project2 Velecina
+## BTEC330 Project2 Velecina
 
 ## Install necessary packages
 install.packages("ggplot2")
