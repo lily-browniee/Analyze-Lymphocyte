@@ -1,4 +1,4 @@
-## AnalyzeLymphocytes
+## AnalyzeLymphocytes: by Hana G Velecina
 ![doi](../master/Images/zenodo.3373938.svg?sanitize=true)
 
 ### Single regressions scatterplots and boxplots for Lymphocytes and Lymphocytes_PCT.
