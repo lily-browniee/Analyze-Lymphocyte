@@ -7,6 +7,14 @@
 Silva, J. C. (2018, February 21). Lymphocytes: Levels, ranges, and functions. Retrieved from https://www.medicalnewstoday.com/articles/320987.php#-what-does-it-mean-if-levels-are-high.
 
 
+## High and Low Bounds
+
+IBS$Lymphocytes_result[IBS$Lymphocytes > 54] <- "HIGH"
+
+IBS$Lymphocytes_result[IBS$Lymphocytes <= 19 & IBS$Lymphocytes >= 53] <- "NORMAL"
+
+IBS$Lymphocytes_result[IBS$Lymphocytes < 18] <- "LOW"
+
 ##
 ### Results of single regression, BMI x Lymphocytes scatterplot
 ```
