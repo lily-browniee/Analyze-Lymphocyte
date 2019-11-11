@@ -32,8 +32,8 @@ Call:
 lm(formula = BMI ~ Lymphocytes, data = IBS1)
 
 Coefficients:
-  (Intercept)          BMI          Lymphocytes 
-      30.7936        -0.5231         0.6042  
+(Intercept)  Lymphocytes  
+     21.869        2.458 
 
 ```
 
@@ -51,8 +51,8 @@ Call:
 lm(formula = BMI ~ Lymphocytes, data = IBS1)
 
 Coefficients:
-  (Intercept)  SerumCortisol            CRP  
-      30.7936        -0.5231         0.6042  
+(Intercept)  Lymphocytes  
+     21.869        2.458
 
 ```
 
@@ -68,11 +68,12 @@ Coefficients:
 > print(Lymphocytes_PCT_scatterplot)
 
 Call:
-lm(formula = BMI ~ SerumCortisol + CRP, data = IBS1)
+lm(formula = BMI ~ Lymphocytes_PCT, data = IBS1)
 
 Coefficients:
-  (Intercept)  SerumCortisol            CRP  
-   1.804763       1.831195              1.72733
+    (Intercept)  Lymphocytes_PCT  
+       25.57843          0.03652  
+
 
 ```
 
@@ -91,8 +92,8 @@ Call:
 lm(formula = BMI ~ Lymphocytes_PCT, data = IBS1)
 
 Coefficients:
-  (Intercept)        BMI            Lymphocytes_PCT  
-   1.804763       1.831195              1.72733
+    (Intercept)  Lymphocytes_PCT  
+       25.57843          0.03652 
 
 ```
 
