@@ -1,15 +1,18 @@
-## AnalyzeLymphocytes: by Hana G Velecina
-![doi](../master/Images/zenodo.3373938.svg?sanitize=true)
+## AnalyzeLymphocytes:
+ by Hana G Velecina
+![doi](Images/zenodo.3373938.svg?sanitize=true)
+
+
+###Table of Contents:
+- [What is a Lymphocyte](document/what_is_lymphocyte.md)
+- Data
+     -
+
 
 ### Single regressions scatterplots and boxplots for Lymphocytes and Lymphocytes_PCT.
-([AnalyzeLymphocytes.R](../master/AnalyzeLymphocytes.R))
+([AnalyzeLymphocytes.R](scripts/Analyze-Lymphocytes.R))
 will allow you to load a comma-delimited .csv with various datapoints, perform single regressions of Body Mass Index (BMI) vs. Lymphocytes and Body Mass Index (BMI) vs. Lymphocytes_PCT from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D scatterplots, and boxplots for the results. 
 
-### Lymphocytes:
-Lymphocytes are one of the body's main types of immune cells. They are made in the bone marrow and found in the blood and lymph tissue. Lymphocytes work together to defend the body against foreign substances, such as bacteria, viruses, and cancer cells that can threaten its functioning. There are two categories of lymphocytes known as B cells and T cells both are originated from stem cells in the bone marrow.
- 
-
-Silva, J. C. (2018, February 21). Lymphocytes: Levels, ranges, and functions. Retrieved from https://www.medicalnewstoday.com/articles/320987.php#-what-does-it-mean-if-levels-are-high.
 
 
 ## High and Low Bounds
