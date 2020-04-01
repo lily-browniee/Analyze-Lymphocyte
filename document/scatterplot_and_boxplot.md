@@ -1,0 +1,3 @@
+### Single regressions scatterplots and boxplots for Lymphocytes and Lymphocytes_PCT.
+([AnalyzeLymphocytes.R](scripts/Analyze-Lymphocytes.R))
+will allow you to load a comma-delimited .csv with various datapoints, perform single regressions of Body Mass Index (BMI) vs. Lymphocytes and Body Mass Index (BMI) vs. Lymphocytes_PCT from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D scatterplots, and boxplots for the results. 
