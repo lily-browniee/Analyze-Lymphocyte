@@ -2,16 +2,12 @@
 ## BTEC330 Project2
 ## By Hana G Velecina
 
-setwd("./")
-
 ## Install necessary packages
 install.packages("ggplot2")
 library(ggplot2)
 
 ## Read data
-IBS <- read.csv("../data/GSE124549_20200330.csv", header = TRUE)
 IBS <- read.csv("data/RobinsonEtAl_Sup1.csv", header = TRUE)
-
 head(IBS)
 
 IBS$Lymphocytes_PCT_result <- "NA"
@@ -26,8 +22,6 @@ IBS$Lymphocytes_PCT_result[IBS$Lymphocytes_PCT < 18] <- "LOW"
 
 write.csv(IBS, "data_output/Lymphocytes_PCT.csv")
 
-## BTEC395 spring2020 Final Project (new lines of codes)
-
 ##  Single Regressions 
 ##  Data obtained from Robinson, et al. 2019 (doi: https://doi.org/10.1101/608208)
 ##  https://statquest.org/2017/10/30/statquest-multiple-regression-in-r/
@@ -35,37 +29,8 @@ write.csv(IBS, "data_output/Lymphocytes_PCT.csv")
 ##  http://r-statistics.co/Linear-Regression.html
 
 ## Single Regression Test, BMI vs. Lymphocytes_PCT parameter
-Lymphocytes_PCT.regression <- lm(Body.Mass.Index..BMI...kg.m.2. ~ Lymphocytes_PCT...., data = IBS)
+Lymphocytes_PCT.regression <- lm(BMI ~ Lymphocytes_PCT, data = IBS)
 summary(Lymphocytes_PCT.regression)
-
-## Recursive analysis for regression  - RNA Expression
-## https://stackoverflow.com/questions/42464767/how-to-run-lm-regression-for-every-column-in-r
-## https://stackoverflow.com/questions/44170937/performing-lm-and-segmented-on-multiple-columns-in-r
-## http://www.learnbymarketing.com/tutorials/explaining-the-lm-summary-in-r/
-## https://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html
-
-
-## Access only the columns with RNA Expression
-names(IBS)[37:286]
-
-##  Make a data frame of list type
-storage <- list()
-
-## linear regression for each expressed gene
-for(i in names(IBS)[37:286]){
-  storage[[i]]  <- lm(get(i) ~ Lymphocytes_PCT...., IBS)
-}
-
-summary(storage$AGO2)
-summary(storage$AGO2)$r.squared
-summary(storage$AGO2)$coefficients[,4]
-
-## output the results of the 250 genes in data_output folder
-sink('../data_output/Lymphocytes_PCT_storage.txt', append = TRUE)
-print(storage)
-sink()
-
-
 
 ## Output the results to a file
 ## http://www.cookbook-r.com/Data_input_and_output/Writing_text_and_output_from_analyses_to_a_file/
