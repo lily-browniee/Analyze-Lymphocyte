@@ -1,0 +1,20 @@
+Call:
+   aov(formula = BLK ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    893236349 45179668410
+Deg. of Freedom           2          93
+
+Residual standard error: 22040.94
+Estimated effects may be unbalanced
+Call:
+   aov(formula = BLK ~ IBSsubtype, data = IBS1)
+
+Terms:
+                 IBSsubtype   Residuals
+Sum of Squares    893236349 45179668410
+Deg. of Freedom           2          93
+
+Residual standard error: 22040.94
+Estimated effects may be unbalanced

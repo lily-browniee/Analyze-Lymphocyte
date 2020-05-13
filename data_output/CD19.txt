@@ -1,0 +1,20 @@
+Call:
+   aov(formula = CD19 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares     9390658 162347412
+Deg. of Freedom          2        93
+
+Residual standard error: 1321.238
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD19 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype Residuals
+Sum of Squares     9390658 162347412
+Deg. of Freedom          2        93
+
+Residual standard error: 1321.238
+Estimated effects may be unbalanced

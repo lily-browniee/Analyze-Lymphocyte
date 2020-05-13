@@ -1,0 +1,10001 @@
+$A2M
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2189.86               -10.99  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             8044.8                 32.8  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            59892.3                183.8  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13830.45               -92.02  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           49491.70               -19.47  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             206124                 1232  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           305449.0                735.3  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             894738                -2414  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            358.288                1.213  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4902.53               -13.43  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             557630                 2751  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             34.915                8.656  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5292.04               -24.18  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8579.96               -50.54  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8729.23                57.39  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             115970                 1167  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             133498                -1015  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           105853.4               -514.3  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            23803.5                245.4  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            81110.9                851.4  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            558.818                1.687  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2407.51               -15.08  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            883.402               -1.269  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1560.76               -10.34  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            237.286                8.096  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           176204.0               -526.8  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             153354                -1052  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8168.17               -84.33  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           16949.96                60.34  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             562492                -5391  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            16188.7                290.6  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41212.6               -188.1  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            32703.1                159.3  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3876.836               -5.066  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2403.20               -14.97  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             2635.8                -19.1  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            75100.4                815.9  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2222.73               -11.47  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41122.9                756.2  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3070.880               -1.999  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            49170.2                295.3  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            25354.7               -205.7  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14071.8                253.3  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             227212                 2917  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              52078                 1583  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           166661.6                353.6  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              19832                  100  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              38087                  331  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              70288                 1452  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          804517.79                23.08  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             226399                -1056  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           209127.1                339.3  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            55324.2                339.2  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            74811.3               -625.3  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             231091                -1096  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5177.49               -54.61  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          56238.101                3.284  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             746.75                13.82  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            9815.95                47.59  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            582.956                1.905  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1237136               -16647  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           69865.61               -61.95  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5593.89               -78.68  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            124.836                3.184  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             289063                -2913  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             499507                -8613  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             985921                 6179  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          15256.998               -9.717  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4339.71               -45.01  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            68082.7               -746.6  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             162858                -1958  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41385.4               -375.2  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          121444.20               -97.53  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            10800.9               -108.7  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            48221.3               -102.4  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           240797.8               -704.2  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           102846.6                273.2  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           71278.95                40.22  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1489055               -15432  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           46602.99               -67.72  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           95515.69               -73.04  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           256626.6                344.3  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            11102.7               -178.3  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            22840.5               -351.4  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           35995.79               -93.48  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             226010                 4041  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            65560.5               -136.4  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             783886                -5827  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8129.88                15.09  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           234629.4                117.2  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          5411.9928               0.4126  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           26578.05               -99.52  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            6073.30               -59.38  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           293807.4               -388.1  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2984.14               -16.79  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           125310.4               -624.2  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            32546.9               -178.7  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1264186                 1244  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            51626.0                374.9  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1929.21               -11.43  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           215915.7                509.9  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5691.2                142.1  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            45999.5               -183.5  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             262378                 3661  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41337.0                791.5  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          5.032e+04            2.267e-01  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5097.6                -58.8  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            79239.7                480.5  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            75649.9                121.3  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              50915                 -288  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            298.767               -1.823  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            79172.9               -885.2  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            43144.7                266.9  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3758.96                35.05  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2105.69               -14.35  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8843.46                25.39  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             314.51                13.48  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5653.44               -52.98  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            265.339                4.752  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           211142.3               -876.4  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2067.18               -17.84  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              72631                -1271  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            38928.9               -613.9  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1416.644               -8.438  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          1421.3598               0.4837  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           20124.71                31.78  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1996.960               -5.982  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            7342.28                19.53  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+               1485                  -11  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             153706                 -336  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1918.935               -3.843  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3765.21                12.71  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4682.98               -20.58  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             743703                 7224  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            70768.6               -818.2  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           175546.2               -466.1  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3489.146               -9.074  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           22379.91               -72.71  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           920.0856              -0.9264  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              39768                 -637  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             174691                -1331  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+               1043                  350  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            66064.8               -736.6  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             475577                -4758  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            35668.8               -195.8  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2823.04               -13.25  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4149.54               -47.03  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              39817                 1053  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           155558.4                317.6  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            24675.5               -210.5  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             662608                 1541  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            66111.0               -441.3  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           69307.88                19.79  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1150.244               -3.673  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5502.63                16.44  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             147662                -1975  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           16486.54                53.45  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             6551.0                -44.4  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8508535                12854  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3035.32               -22.21  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            60797.7               -180.8  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            87371.6                189.1  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           145911.6                244.6  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           10397.22               -37.87  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             -58.83                11.05  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           40751.79                19.59  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           221277.3               -722.8  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           21565.76                75.61  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5482.3                -43.2  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            11124.7               -150.4  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             254746                 2451  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            10568.8               -145.4  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            17323.0               -165.7  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            49284.8                236.5  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1519.008                3.174  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             174118                -2218  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           24810.41                35.12  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              40377                 -135  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8137.39               -31.19  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          2785.0859              -0.6407  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            31917.1                283.3  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           103827.7               -262.2  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             908546                -8926  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            30351.7               -178.1  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           12292.85               -13.62  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           125928.4                371.5  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           23060.45                79.23  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           133266.0                253.6  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            72554.0                280.3  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              43135                 -300  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1775.592               -3.842  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             532.12                14.35  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2931.57               -16.56  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           238547.2               -800.4  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             426277                 3430  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3613.99               -24.13  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           141214.1                553.2  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2128.94               -20.86  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            7686.51               -17.67  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14005.0               -150.7  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           109974.0               -616.2  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             144321                -1397  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          60176.054               -4.284  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            36446.8               -580.4  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           358836.5                547.3  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          1.375e+05            6.664e+00  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           107157.0                555.8  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13489.46                48.01  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            22945.9                -42.3  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            97534.9                703.3  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          8.489e+03            2.623e-02  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5255827                19523  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            36331.8               -256.1  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           65926.16               -89.21  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5397.27               -22.33  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            29286.6               -482.4  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             133031                  526  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             2439.1                104.9  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          109038.59               -65.36  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             561803                -4048  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2416.413               -8.974  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            42591.4                145.2  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13588.37               -43.74  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             134080                 1520  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2692.01               -17.05  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1589.971               -5.181  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           58410.19                51.29  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            68160.2                486.8  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1237501               -10233  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3995.79               -32.39  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             165557                -1809  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             186276                -1656  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             154134                -1578  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            65265.7               -554.9  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             1123.3                451.6  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14454.0               -106.8  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2165.530               -3.184  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2371.790                5.503  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            64314.6               -112.7  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            6170.59               -59.21  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              44926                  139  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            67555.4                357.6  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             304471                -3003  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            60213.9               -129.3  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             726445                 2860  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            24138.6               -115.3  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            29775.4               -259.6  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           25282.72               -53.83  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1121724                -5237  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            499.522                1.137  
+
+
+$A2M
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2189.86               -10.99  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             8044.8                 32.8  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            59892.3                183.8  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13830.45               -92.02  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           49491.70               -19.47  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             206124                 1232  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           305449.0                735.3  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             894738                -2414  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            358.288                1.213  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4902.53               -13.43  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             557630                 2751  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             34.915                8.656  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5292.04               -24.18  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8579.96               -50.54  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8729.23                57.39  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             115970                 1167  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             133498                -1015  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           105853.4               -514.3  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            23803.5                245.4  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            81110.9                851.4  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            558.818                1.687  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2407.51               -15.08  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            883.402               -1.269  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1560.76               -10.34  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            237.286                8.096  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           176204.0               -526.8  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             153354                -1052  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8168.17               -84.33  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           16949.96                60.34  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             562492                -5391  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            16188.7                290.6  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41212.6               -188.1  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            32703.1                159.3  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3876.836               -5.066  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2403.20               -14.97  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             2635.8                -19.1  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            75100.4                815.9  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2222.73               -11.47  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41122.9                756.2  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3070.880               -1.999  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            49170.2                295.3  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            25354.7               -205.7  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14071.8                253.3  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             227212                 2917  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              52078                 1583  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           166661.6                353.6  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              19832                  100  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              38087                  331  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              70288                 1452  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          804517.79                23.08  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             226399                -1056  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           209127.1                339.3  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            55324.2                339.2  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            74811.3               -625.3  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             231091                -1096  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5177.49               -54.61  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          56238.101                3.284  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             746.75                13.82  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            9815.95                47.59  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            582.956                1.905  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1237136               -16647  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           69865.61               -61.95  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5593.89               -78.68  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            124.836                3.184  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             289063                -2913  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             499507                -8613  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             985921                 6179  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          15256.998               -9.717  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4339.71               -45.01  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            68082.7               -746.6  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             162858                -1958  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41385.4               -375.2  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          121444.20               -97.53  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            10800.9               -108.7  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            48221.3               -102.4  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           240797.8               -704.2  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           102846.6                273.2  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           71278.95                40.22  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1489055               -15432  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           46602.99               -67.72  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           95515.69               -73.04  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           256626.6                344.3  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            11102.7               -178.3  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            22840.5               -351.4  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           35995.79               -93.48  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             226010                 4041  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            65560.5               -136.4  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             783886                -5827  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8129.88                15.09  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           234629.4                117.2  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          5411.9928               0.4126  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           26578.05               -99.52  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            6073.30               -59.38  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           293807.4               -388.1  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2984.14               -16.79  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           125310.4               -624.2  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            32546.9               -178.7  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1264186                 1244  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            51626.0                374.9  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1929.21               -11.43  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           215915.7                509.9  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5691.2                142.1  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            45999.5               -183.5  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             262378                 3661  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41337.0                791.5  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          5.032e+04            2.267e-01  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5097.6                -58.8  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            79239.7                480.5  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            75649.9                121.3  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              50915                 -288  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            298.767               -1.823  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            79172.9               -885.2  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            43144.7                266.9  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3758.96                35.05  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2105.69               -14.35  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8843.46                25.39  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             314.51                13.48  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5653.44               -52.98  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            265.339                4.752  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           211142.3               -876.4  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2067.18               -17.84  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              72631                -1271  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            38928.9               -613.9  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1416.644               -8.438  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          1421.3598               0.4837  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           20124.71                31.78  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1996.960               -5.982  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            7342.28                19.53  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+               1485                  -11  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             153706                 -336  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1918.935               -3.843  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3765.21                12.71  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4682.98               -20.58  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             743703                 7224  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            70768.6               -818.2  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           175546.2               -466.1  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3489.146               -9.074  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           22379.91               -72.71  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           920.0856              -0.9264  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              39768                 -637  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             174691                -1331  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+               1043                  350  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            66064.8               -736.6  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             475577                -4758  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            35668.8               -195.8  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2823.04               -13.25  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4149.54               -47.03  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              39817                 1053  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           155558.4                317.6  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            24675.5               -210.5  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             662608                 1541  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            66111.0               -441.3  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           69307.88                19.79  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1150.244               -3.673  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5502.63                16.44  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             147662                -1975  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           16486.54                53.45  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             6551.0                -44.4  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8508535                12854  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3035.32               -22.21  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            60797.7               -180.8  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            87371.6                189.1  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           145911.6                244.6  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           10397.22               -37.87  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             -58.83                11.05  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           40751.79                19.59  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           221277.3               -722.8  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           21565.76                75.61  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5482.3                -43.2  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            11124.7               -150.4  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             254746                 2451  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            10568.8               -145.4  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            17323.0               -165.7  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            49284.8                236.5  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1519.008                3.174  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             174118                -2218  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           24810.41                35.12  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              40377                 -135  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8137.39               -31.19  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          2785.0859              -0.6407  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            31917.1                283.3  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           103827.7               -262.2  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             908546                -8926  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            30351.7               -178.1  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           12292.85               -13.62  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           125928.4                371.5  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           23060.45                79.23  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           133266.0                253.6  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            72554.0                280.3  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              43135                 -300  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1775.592               -3.842  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             532.12                14.35  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2931.57               -16.56  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           238547.2               -800.4  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             426277                 3430  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3613.99               -24.13  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           141214.1                553.2  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2128.94               -20.86  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            7686.51               -17.67  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14005.0               -150.7  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           109974.0               -616.2  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             144321                -1397  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          60176.054               -4.284  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            36446.8               -580.4  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           358836.5                547.3  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          1.375e+05            6.664e+00  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           107157.0                555.8  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13489.46                48.01  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            22945.9                -42.3  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            97534.9                703.3  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          8.489e+03            2.623e-02  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5255827                19523  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            36331.8               -256.1  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           65926.16               -89.21  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5397.27               -22.33  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            29286.6               -482.4  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             133031                  526  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             2439.1                104.9  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          109038.59               -65.36  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             561803                -4048  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2416.413               -8.974  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            42591.4                145.2  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13588.37               -43.74  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             134080                 1520  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2692.01               -17.05  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1589.971               -5.181  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           58410.19                51.29  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            68160.2                486.8  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1237501               -10233  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3995.79               -32.39  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             165557                -1809  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             186276                -1656  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             154134                -1578  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            65265.7               -554.9  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             1123.3                451.6  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14454.0               -106.8  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2165.530               -3.184  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2371.790                5.503  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            64314.6               -112.7  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            6170.59               -59.21  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              44926                  139  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            67555.4                357.6  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             304471                -3003  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            60213.9               -129.3  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             726445                 2860  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            24138.6               -115.3  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            29775.4               -259.6  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           25282.72               -53.83  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1121724                -5237  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            499.522                1.137  
+
+
+$A2M
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2189.86               -10.99  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             8044.8                 32.8  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            59892.3                183.8  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13830.45               -92.02  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           49491.70               -19.47  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             206124                 1232  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           305449.0                735.3  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             894738                -2414  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            358.288                1.213  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4902.53               -13.43  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             557630                 2751  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             34.915                8.656  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5292.04               -24.18  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8579.96               -50.54  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8729.23                57.39  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             115970                 1167  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             133498                -1015  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           105853.4               -514.3  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            23803.5                245.4  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            81110.9                851.4  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            558.818                1.687  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2407.51               -15.08  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            883.402               -1.269  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1560.76               -10.34  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            237.286                8.096  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           176204.0               -526.8  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             153354                -1052  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8168.17               -84.33  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           16949.96                60.34  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             562492                -5391  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            16188.7                290.6  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41212.6               -188.1  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            32703.1                159.3  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3876.836               -5.066  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2403.20               -14.97  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             2635.8                -19.1  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            75100.4                815.9  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2222.73               -11.47  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41122.9                756.2  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3070.880               -1.999  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            49170.2                295.3  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            25354.7               -205.7  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14071.8                253.3  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             227212                 2917  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              52078                 1583  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           166661.6                353.6  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              19832                  100  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              38087                  331  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              70288                 1452  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          804517.79                23.08  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             226399                -1056  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           209127.1                339.3  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            55324.2                339.2  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            74811.3               -625.3  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             231091                -1096  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5177.49               -54.61  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          56238.101                3.284  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             746.75                13.82  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            9815.95                47.59  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            582.956                1.905  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1237136               -16647  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           69865.61               -61.95  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5593.89               -78.68  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            124.836                3.184  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             289063                -2913  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             499507                -8613  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             985921                 6179  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          15256.998               -9.717  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4339.71               -45.01  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            68082.7               -746.6  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             162858                -1958  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41385.4               -375.2  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          121444.20               -97.53  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            10800.9               -108.7  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            48221.3               -102.4  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           240797.8               -704.2  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           102846.6                273.2  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           71278.95                40.22  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1489055               -15432  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           46602.99               -67.72  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           95515.69               -73.04  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           256626.6                344.3  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            11102.7               -178.3  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            22840.5               -351.4  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           35995.79               -93.48  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             226010                 4041  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            65560.5               -136.4  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             783886                -5827  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8129.88                15.09  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           234629.4                117.2  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          5411.9928               0.4126  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           26578.05               -99.52  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            6073.30               -59.38  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           293807.4               -388.1  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2984.14               -16.79  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           125310.4               -624.2  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            32546.9               -178.7  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1264186                 1244  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            51626.0                374.9  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1929.21               -11.43  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           215915.7                509.9  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5691.2                142.1  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            45999.5               -183.5  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             262378                 3661  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41337.0                791.5  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          5.032e+04            2.267e-01  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5097.6                -58.8  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            79239.7                480.5  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            75649.9                121.3  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              50915                 -288  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            298.767               -1.823  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            79172.9               -885.2  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            43144.7                266.9  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3758.96                35.05  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2105.69               -14.35  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8843.46                25.39  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             314.51                13.48  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5653.44               -52.98  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            265.339                4.752  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           211142.3               -876.4  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2067.18               -17.84  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              72631                -1271  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            38928.9               -613.9  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1416.644               -8.438  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          1421.3598               0.4837  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           20124.71                31.78  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1996.960               -5.982  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            7342.28                19.53  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+               1485                  -11  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             153706                 -336  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1918.935               -3.843  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3765.21                12.71  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4682.98               -20.58  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             743703                 7224  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            70768.6               -818.2  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           175546.2               -466.1  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3489.146               -9.074  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           22379.91               -72.71  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           920.0856              -0.9264  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              39768                 -637  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             174691                -1331  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+               1043                  350  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            66064.8               -736.6  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             475577                -4758  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            35668.8               -195.8  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2823.04               -13.25  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4149.54               -47.03  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              39817                 1053  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           155558.4                317.6  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            24675.5               -210.5  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             662608                 1541  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            66111.0               -441.3  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           69307.88                19.79  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1150.244               -3.673  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5502.63                16.44  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             147662                -1975  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           16486.54                53.45  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             6551.0                -44.4  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8508535                12854  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3035.32               -22.21  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            60797.7               -180.8  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            87371.6                189.1  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           145911.6                244.6  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           10397.22               -37.87  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             -58.83                11.05  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           40751.79                19.59  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           221277.3               -722.8  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           21565.76                75.61  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5482.3                -43.2  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            11124.7               -150.4  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             254746                 2451  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            10568.8               -145.4  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            17323.0               -165.7  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            49284.8                236.5  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1519.008                3.174  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             174118                -2218  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           24810.41                35.12  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              40377                 -135  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8137.39               -31.19  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          2785.0859              -0.6407  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            31917.1                283.3  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           103827.7               -262.2  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             908546                -8926  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            30351.7               -178.1  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           12292.85               -13.62  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           125928.4                371.5  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           23060.45                79.23  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           133266.0                253.6  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            72554.0                280.3  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              43135                 -300  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1775.592               -3.842  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             532.12                14.35  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2931.57               -16.56  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           238547.2               -800.4  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             426277                 3430  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3613.99               -24.13  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           141214.1                553.2  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2128.94               -20.86  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            7686.51               -17.67  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14005.0               -150.7  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           109974.0               -616.2  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             144321                -1397  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          60176.054               -4.284  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            36446.8               -580.4  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           358836.5                547.3  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          1.375e+05            6.664e+00  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           107157.0                555.8  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13489.46                48.01  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            22945.9                -42.3  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            97534.9                703.3  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          8.489e+03            2.623e-02  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5255827                19523  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            36331.8               -256.1  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           65926.16               -89.21  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5397.27               -22.33  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            29286.6               -482.4  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             133031                  526  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             2439.1                104.9  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          109038.59               -65.36  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             561803                -4048  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2416.413               -8.974  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            42591.4                145.2  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13588.37               -43.74  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             134080                 1520  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2692.01               -17.05  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1589.971               -5.181  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           58410.19                51.29  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            68160.2                486.8  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1237501               -10233  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3995.79               -32.39  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             165557                -1809  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             186276                -1656  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             154134                -1578  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            65265.7               -554.9  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             1123.3                451.6  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14454.0               -106.8  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2165.530               -3.184  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2371.790                5.503  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            64314.6               -112.7  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            6170.59               -59.21  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              44926                  139  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            67555.4                357.6  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             304471                -3003  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            60213.9               -129.3  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             726445                 2860  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            24138.6               -115.3  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            29775.4               -259.6  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           25282.72               -53.83  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1121724                -5237  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            499.522                1.137  
+
+
+Error in install.packages : Updating loaded packages
+$A2M
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2189.86               -10.99  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             8044.8                 32.8  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            59892.3                183.8  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13830.45               -92.02  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           49491.70               -19.47  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             206124                 1232  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           305449.0                735.3  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             894738                -2414  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            358.288                1.213  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4902.53               -13.43  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             557630                 2751  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             34.915                8.656  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5292.04               -24.18  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8579.96               -50.54  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8729.23                57.39  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             115970                 1167  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             133498                -1015  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           105853.4               -514.3  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            23803.5                245.4  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            81110.9                851.4  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            558.818                1.687  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2407.51               -15.08  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            883.402               -1.269  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1560.76               -10.34  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            237.286                8.096  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           176204.0               -526.8  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             153354                -1052  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8168.17               -84.33  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           16949.96                60.34  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             562492                -5391  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            16188.7                290.6  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41212.6               -188.1  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            32703.1                159.3  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3876.836               -5.066  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2403.20               -14.97  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             2635.8                -19.1  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            75100.4                815.9  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2222.73               -11.47  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41122.9                756.2  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3070.880               -1.999  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            49170.2                295.3  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            25354.7               -205.7  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14071.8                253.3  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             227212                 2917  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              52078                 1583  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           166661.6                353.6  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              19832                  100  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              38087                  331  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              70288                 1452  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          804517.79                23.08  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             226399                -1056  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           209127.1                339.3  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            55324.2                339.2  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            74811.3               -625.3  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             231091                -1096  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5177.49               -54.61  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          56238.101                3.284  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             746.75                13.82  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            9815.95                47.59  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            582.956                1.905  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1237136               -16647  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           69865.61               -61.95  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5593.89               -78.68  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            124.836                3.184  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             289063                -2913  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             499507                -8613  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             985921                 6179  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          15256.998               -9.717  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4339.71               -45.01  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            68082.7               -746.6  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             162858                -1958  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41385.4               -375.2  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          121444.20               -97.53  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            10800.9               -108.7  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            48221.3               -102.4  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           240797.8               -704.2  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           102846.6                273.2  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           71278.95                40.22  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1489055               -15432  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           46602.99               -67.72  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           95515.69               -73.04  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           256626.6                344.3  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            11102.7               -178.3  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            22840.5               -351.4  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           35995.79               -93.48  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             226010                 4041  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            65560.5               -136.4  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             783886                -5827  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8129.88                15.09  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           234629.4                117.2  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          5411.9928               0.4126  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           26578.05               -99.52  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            6073.30               -59.38  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           293807.4               -388.1  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2984.14               -16.79  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           125310.4               -624.2  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            32546.9               -178.7  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1264186                 1244  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            51626.0                374.9  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1929.21               -11.43  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           215915.7                509.9  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5691.2                142.1  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            45999.5               -183.5  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             262378                 3661  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            41337.0                791.5  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          5.032e+04            2.267e-01  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5097.6                -58.8  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            79239.7                480.5  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            75649.9                121.3  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              50915                 -288  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            298.767               -1.823  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            79172.9               -885.2  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            43144.7                266.9  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3758.96                35.05  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2105.69               -14.35  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8843.46                25.39  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             314.51                13.48  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5653.44               -52.98  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            265.339                4.752  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           211142.3               -876.4  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2067.18               -17.84  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              72631                -1271  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            38928.9               -613.9  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1416.644               -8.438  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          1421.3598               0.4837  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           20124.71                31.78  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1996.960               -5.982  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            7342.28                19.53  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+               1485                  -11  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             153706                 -336  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1918.935               -3.843  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3765.21                12.71  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4682.98               -20.58  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             743703                 7224  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            70768.6               -818.2  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           175546.2               -466.1  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           3489.146               -9.074  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           22379.91               -72.71  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           920.0856              -0.9264  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              39768                 -637  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             174691                -1331  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+               1043                  350  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            66064.8               -736.6  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             475577                -4758  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            35668.8               -195.8  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2823.04               -13.25  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            4149.54               -47.03  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              39817                 1053  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           155558.4                317.6  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            24675.5               -210.5  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             662608                 1541  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            66111.0               -441.3  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           69307.88                19.79  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1150.244               -3.673  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5502.63                16.44  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             147662                -1975  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           16486.54                53.45  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             6551.0                -44.4  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8508535                12854  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3035.32               -22.21  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            60797.7               -180.8  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            87371.6                189.1  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           145911.6                244.6  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           10397.22               -37.87  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             -58.83                11.05  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           40751.79                19.59  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           221277.3               -722.8  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           21565.76                75.61  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             5482.3                -43.2  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            11124.7               -150.4  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             254746                 2451  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            10568.8               -145.4  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            17323.0               -165.7  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            49284.8                236.5  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1519.008                3.174  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             174118                -2218  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           24810.41                35.12  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              40377                 -135  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            8137.39               -31.19  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          2785.0859              -0.6407  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            31917.1                283.3  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           103827.7               -262.2  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             908546                -8926  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            30351.7               -178.1  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           12292.85               -13.62  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           125928.4                371.5  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           23060.45                79.23  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           133266.0                253.6  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            72554.0                280.3  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              43135                 -300  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1775.592               -3.842  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             532.12                14.35  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2931.57               -16.56  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           238547.2               -800.4  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             426277                 3430  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3613.99               -24.13  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           141214.1                553.2  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2128.94               -20.86  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            7686.51               -17.67  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14005.0               -150.7  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           109974.0               -616.2  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             144321                -1397  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          60176.054               -4.284  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            36446.8               -580.4  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           358836.5                547.3  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          1.375e+05            6.664e+00  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           107157.0                555.8  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13489.46                48.01  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            22945.9                -42.3  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            97534.9                703.3  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          8.489e+03            2.623e-02  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5255827                19523  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            36331.8               -256.1  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           65926.16               -89.21  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            5397.27               -22.33  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            29286.6               -482.4  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             133031                  526  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             2439.1                104.9  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+          109038.59               -65.36  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             561803                -4048  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2416.413               -8.974  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            42591.4                145.2  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           13588.37               -43.74  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             134080                 1520  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            2692.01               -17.05  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           1589.971               -5.181  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           58410.19                51.29  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            68160.2                486.8  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1237501               -10233  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            3995.79               -32.39  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             165557                -1809  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             186276                -1656  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             154134                -1578  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            65265.7               -554.9  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             1123.3                451.6  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            14454.0               -106.8  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2165.530               -3.184  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           2371.790                5.503  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            64314.6               -112.7  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            6170.59               -59.21  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+              44926                  139  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            67555.4                357.6  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             304471                -3003  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            60213.9               -129.3  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+             726445                 2860  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            24138.6               -115.3  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            29775.4               -259.6  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+           25282.72               -53.83  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            1121724                -5237  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ Lymphocytes_PCT...., data = IBS)
+
+Coefficients:
+        (Intercept)  Lymphocytes_PCT....  
+            499.522                1.137  
+
+
