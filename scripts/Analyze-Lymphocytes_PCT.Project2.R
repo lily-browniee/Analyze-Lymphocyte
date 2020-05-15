@@ -1,13 +1,15 @@
 
-## BTEC330 Project2
+## BTEC395 Project
 ## By Hana G Velecina
+
+## set working directory to source file location 
 
 setwd("./")
 
 ## Install necessary packages
 install.packages("ggplot2")
 library(ggplot2)
-
+library(ggrepel)
 ## BTEC395 spring2020 Final Project (new lines of codes)
 
 ## Read data
@@ -17,11 +19,6 @@ head(IBS)
 
 
 ## Recursive analysis for regression  - RNA Expression
-## https://stackoverflow.com/questions/42464767/how-to-run-lm-regression-for-every-column-in-r
-## https://stackoverflow.com/questions/44170937/performing-lm-and-segmented-on-multiple-columns-in-r
-## http://www.learnbymarketing.com/tutorials/explaining-the-lm-summary-in-r/
-## https://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html
-
 
 ## Access only the columns with RNA Expression
 names(IBS)[37:286]
