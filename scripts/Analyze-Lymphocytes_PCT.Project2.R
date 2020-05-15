@@ -1,22 +1,33 @@
-
 ## BTEC395 Project
 ## By Hana G Velecina
-
-## set working directory to source file location 
-
-setwd("./")
 
 ## Install necessary packages
 install.packages("ggplot2")
 library(ggplot2)
-library(ggrepel)
-## BTEC395 spring2020 Final Project (new lines of codes)
+# library(ggrepel)
+
+## set working directory to source file location 
+
+setwd("./data/")
+
+## Read data
+IBS1 <- read.table("../data/IBSGXData.txt", sep = "\t", header = TRUE)
+View(IBS1)
+
+
+## Lymphocytes Single Regression Test vs DROSHA gene
+Lymphocytes.regression <- lm(DROSHA ~ Lymphocytes_PCT.... , data=IBS1)
+summary(Lymphocytes.regression)
+
+## Lymphocytes Scatterplots vs DROSHA gene
+ggplot(IBS1, aes(x=DROSHA, y=Lymphocytes_PCT....)) +
+  geom_point() +    
+  geom_smooth(method=lm) 
 
 ## Read data
 IBS <- read.csv("../data/GSE124549_20200330.csv", header = TRUE)
 
 head(IBS)
-
 
 ## Recursive analysis for regression  - RNA Expression
 
@@ -39,8 +50,6 @@ summary(storage$AGO2)$coefficients[,4]
 sink('../data_output/Lymphocytes_PCT_storage.txt', append = TRUE)
 print(storage)
 sink()
-
-
 
 ## Read in the table of fold changes
 FCdata <- read.csv("../data/FC.csv", row.names = 1, header = FALSE)
@@ -80,7 +89,6 @@ VolcanoPlotData$Sig <- ifelse(VolcanoPlotData$`-log10(Pval)` > 1.3, "Sig", "Insi
 
 ## Make a volcano-style scatterplot for these results
 
-
 png("../fig_output/LymphocytePCTplot.png")
 LymphocytePCTplot <- ggplot(VolcanoPlotData, aes(x = `log2(slopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
   geom_point(aes(color = Sig)) +
@@ -90,7 +98,3 @@ LymphocytePCTplot <- ggplot(VolcanoPlotData, aes(x = `log2(slopeDiff)`, y = `-lo
 
 print(LymphocytePCTplot + ggtitle("Gene Expression vs. LymphocytePCT Level"))
 dev.off()
-
-
-
-
