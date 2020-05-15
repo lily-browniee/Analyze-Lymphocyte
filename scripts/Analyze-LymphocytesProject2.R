@@ -25,14 +25,6 @@ ggplot(IBS1, aes(x=DROSHA, y=Lymphocytes..x10.9.cells.L.)) +
   geom_smooth(method=lm) 
 
 
-
-
-## Read data  -------------Look here ----------------LILYYYYYYYYYYYYYYY
-IBS <- read.csv("../data/GSE124549_20200330.csv", header = TRUE)
-
-head(IBS)
-
-
 ## Recursive analysis for regression  - RNA Expression
 
 ## Access only the columns with RNA Expression
