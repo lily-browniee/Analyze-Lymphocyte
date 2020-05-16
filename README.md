@@ -57,20 +57,20 @@ Gene Ontology is a formal representation of a body of knowledge within a given d
 
 ### Example Lymphocytes genes that were significant
 
-- AASS - Aminoadipate-semialdehyde synthase
-- ABCF1 - ATP Binding Cassette Subfamily F Member 1
-- AKT3 - AKT serine/threonine kinase 3
-- Areg - Amphiregulin
-- BCL2 - BCL2 Apoptosis Regulator
-- BCL6 - BCL6 transcription repressor
+- <b>AASS</b> - Aminoadipate-semialdehyde synthase
+- <b>ABCF1</b> - ATP Binding Cassette Subfamily F Member 1
+- <b>AKT3</b> - AKT serine/threonine kinase 3
+- <b>Areg</b> - Amphiregulin
+- <b>BCL2</b> - BCL2 Apoptosis Regulator
+- <b>BCL6</b> - BCL6 transcription repressor
 
 
 ### Gene Significance for Lymphocytes_PCT
 
-- AASS - Aminoadipate-Semialdehyde Synthase
-- ABCF1 - ATP Binding Cassette Subfamily F Member 1
-- AKT3 - AKT serine/threonine kinase 3
-- Areg - Amphiregulin
+- <b>AASS</b> - Aminoadipate-Semialdehyde Synthase
+- <b>ABCF1</b> - ATP Binding Cassette Subfamily F Member 1
+- <b>AKT3</b> - AKT serine/threonine kinase 3
+- <b>Areg</b> - Amphiregulin
 
 
 #### Panther Analysis
