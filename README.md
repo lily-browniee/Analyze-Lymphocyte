@@ -34,7 +34,7 @@ will allow you to load a comma-delimited .csv with various datapoints, perform s
 [RobinsonEtAl_Sup1.csv](data/RobinsonEtAl_Sup1.csv)
 
 
-
+## Project BTEC395
 ### Transformations and Volcano Plots
 
 The following scripts were intended to make statistical significance (P value) versus magnitude of change (fold change) using R of Lymphocytes:
@@ -45,9 +45,8 @@ The following scripts were intended to make statistical significance (P value) v
 
 #### Volcano Plots
 
-![LymphocyteCountplot.png](fig_output/LymphocyteCountplot.png)
+[LymphocyteCountplot.png](fig_output/LymphocyteCountplot.png)
 
-![LymphocytePCTplot.png](fig_output/LymphocytePCTplot.png)
 
 ![LymphocytePCTplot.png](fig_output/LymphocytePCTplot.png)
 
