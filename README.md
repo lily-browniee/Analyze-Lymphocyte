@@ -39,9 +39,9 @@ will allow you to load a comma-delimited .csv with various datapoints, perform s
 
 The following scripts were intended to make statistical significance (P value) versus magnitude of change (fold change) using R of Lymphocytes:
 
-[Analyze-LymphocytesProject2.R](scripts/Analyze-LymphocytesProjectFinalProject.R)
+[Analyze-LymphocytesProjectFinalProject.R](scripts/Analyze-LymphocytesFinalProject.R)
 
-[Analyze-Lymphocytes_PCT.Project2.R](scripts/Analyze-Lymphocytes_PCTFinalProject.R)
+[Analyze-Lymphocytes_PCTFinalProjectR](scripts/Analyze-Lymphocytes_PCTFinalProject.R)
 
 
 
