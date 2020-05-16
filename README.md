@@ -47,6 +47,7 @@ The following scripts were intended to make statistical significance (P value) v
 
 ![LymphocyteCountplot.png](fig_output/LymphocyteCountplot.png)
 
+![LymphocyteCountplot.png](fig_output/LymphocyteCountplot.png)
 
 ![LymphocytePCTplot.png](fig_output/LymphocytePCTplot.png)
 
