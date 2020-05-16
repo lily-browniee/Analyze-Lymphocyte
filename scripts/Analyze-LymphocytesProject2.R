@@ -24,7 +24,10 @@ ggplot(IBS1, aes(x=DROSHA, y=Lymphocytes..x10.9.cells.L.)) +
   geom_point() +    
   geom_smooth(method=lm) 
 
+## Read data
+IBS <- read.csv("../data/GSE124549_20200330.csv", header = TRUE)
 
+head(IBS)
 ## Recursive analysis for regression  - RNA Expression
 
 ## Access only the columns with RNA Expression
@@ -35,7 +38,7 @@ storage <- list()
 
 ## linear regression for each expressed gene
 for(i in names(IBS)[37:286]){
-  storage[[i]]  <- lm(get(i) ~ Lymphocytes_PCT...., IBS)
+  storage[[i]]  <- lm(get(i) ~ Lymphocytes..x10.9.cells.L., IBS)
 }
 
 summary(storage$AGO2)
@@ -43,7 +46,7 @@ summary(storage$AGO2)$r.squared
 summary(storage$AGO2)$coefficients[,4]
 
 ## output the results of the 250 genes in data_output folder
-sink('../data_output/Lymphocytes_PCT_storage.txt', append = TRUE)
+sink('../data_output/Lymphocytes_storage.txt', append = TRUE)
 print(storage)
 sink()
 
@@ -60,7 +63,7 @@ names(IBS)[28:277]
 storage <- list()
 
 for(i in names(IBS)[28:277]){
-  storage[[i]]  <- anova(lm(get(i) ~ LymphocytePCT, IBS))
+  storage[[i]]  <- anova(lm(get(i) ~ LymphocyteCount, IBS))
 }
 
 ## Extract the p-values into a new list
@@ -85,12 +88,12 @@ VolcanoPlotData$Sig <- ifelse(VolcanoPlotData$`-log10(Pval)` > 1.3, "Sig", "Insi
 
 ## Make a volcano-style scatterplot for these results
 
-png("../fig_output/LymphocytePCTplot.png")
-LymphocytePCTplot <- ggplot(VolcanoPlotData, aes(x = `log2(slopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
+png("../fig_output/LymphocyteCountplot.png")
+LymphocyteCountplot <- ggplot(VolcanoPlotData, aes(x = `log2(slopeDiff)`, y = `-log10(Pval)`, label=rownames(VolcanoPlotData), color=Sig)) +
   geom_point(aes(color = Sig)) +
   scale_color_manual(values = c("grey", "red")) +
   theme_bw(base_size = 12) + theme(legend.position = "bottom") +
   geom_text(aes(x = `log2(slopeDiff)`,y = `-log10(Pval)`, fontface = 1, size=3,  label=row.names(VolcanoPlotData)))
 
-print(LymphocytePCTplot + ggtitle("Gene Expression vs. LymphocytePCT Level"))
+print(LymphocyteCountplot + ggtitle("Gene Expression vs. Lymphocyte Level"))
 dev.off()
