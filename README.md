@@ -55,7 +55,7 @@ The following scripts were intended to make statistical significance (P value) v
 
 Gene Ontology is a formal representation of a body of knowledge within a given domain. Ontologies usually consist of a set of classes with relations that operate between them.
 
-### Gene Significance for:
+### Example Gene Significances found for:
 #### Lymphocytes
 
 - <b>AASS</b> - Aminoadipate-semialdehyde synthase
