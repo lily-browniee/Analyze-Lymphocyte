@@ -51,7 +51,7 @@ print(storage)
 sink()
 
 ## Read in the table of fold changes
-FCdata <- read.csv("../data/FC.csv", row.names = 1, header = FALSE)
+FCdata <- read.csv("../data/FC2.csv", row.names = 1, header = FALSE)
 
 ## Read in the table of expression data
 IBS <- read.csv("../data/GXdata.csv", header = TRUE)
