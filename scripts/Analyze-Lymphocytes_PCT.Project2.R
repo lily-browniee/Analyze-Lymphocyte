@@ -15,11 +15,11 @@ IBS1 <- read.table("../data/IBSGXData.txt", sep = "\t", header = TRUE)
 View(IBS1)
 
 
-## Lymphocytes Single Regression Test vs DROSHA gene
+## Lymphocytes_PCT Single Regression Test vs DROSHA gene
 Lymphocytes.regression <- lm(DROSHA ~ Lymphocytes_PCT.... , data=IBS1)
 summary(Lymphocytes.regression)
 
-## Lymphocytes Scatterplots vs DROSHA gene
+## Lymphocytes_PCT Scatterplots vs DROSHA gene
 ggplot(IBS1, aes(x=DROSHA, y=Lymphocytes_PCT....)) +
   geom_point() +    
   geom_smooth(method=lm) 
