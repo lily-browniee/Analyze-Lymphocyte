@@ -55,7 +55,8 @@ The following scripts were intended to make statistical significance (P value) v
 
 Gene Ontology is a formal representation of a body of knowledge within a given domain. Ontologies usually consist of a set of classes with relations that operate between them.
 
-### Example Lymphocytes genes that were significant
+### Gene Significance for:
+#### Lymphocytes
 
 - <b>AASS</b> - Aminoadipate-semialdehyde synthase
 - <b>ABCF1</b> - ATP Binding Cassette Subfamily F Member 1
@@ -65,7 +66,7 @@ Gene Ontology is a formal representation of a body of knowledge within a given d
 - <b>BCL6</b> - BCL6 transcription repressor
 
 
-### Gene Significance for Lymphocytes_PCT
+#### Lymphocytes_PCT
 
 - <b>AASS</b> - Aminoadipate-Semialdehyde Synthase
 - <b>ABCF1</b> - ATP Binding Cassette Subfamily F Member 1
@@ -73,7 +74,7 @@ Gene Ontology is a formal representation of a body of knowledge within a given d
 - <b>Areg</b> - Amphiregulin
 
 
-#### Panther Analysis
-All of the genes for Lymphocytes and Lymphocytes_PCT did not show any significant pathways in Pantherdb.org
+### Panther Analysis
+All of the significant genes for Lymphocytes and Lymphocytes_PCT did not show any significant pathways in Pantherdb.org
 
 
