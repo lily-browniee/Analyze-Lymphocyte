@@ -37,7 +37,7 @@ will allow you to load a comma-delimited .csv with various datapoints, perform s
 ## Project BTEC395
 ### Transformations and Volcano Plots
 
-The following scripts were intended to make statistical significance (P value) versus magnitude of change (fold change) using R of Lymphocytes:
+The following scripts were intended to make statistical significance (P value) versus magnitude of change (fold change) using R of Lymphocytes and Lymphocytes_PCT:
 
 [Analyze-LymphocytesProjectFinalProject.R](scripts/Analyze-LymphocytesFinalProject.R)
 
